@@ -43,7 +43,7 @@ void PrintArray(string[] someArray)
         }
         Console.WriteLine($"'{someArray[someArray.Length - 1]}']");
     }
-    else Console.WriteLine("нет подходящих элементов.");
+    else Console.WriteLine("здесь нет подходящих элементов.");
 }
 
 // Метод преобразования исходного массива в массив с 3-х символьными элементами.
